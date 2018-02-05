@@ -15,7 +15,8 @@ export function rollMap () {
       'Nepal',
       'Temple of Anubis',
       'Volskaya Industries',
-      'Watchpoint: Gibraltar'
+      'Watchpoint: Gibraltar',
+      'Blizzard World'
     ]
 
     maps.forEach((map, index) => {
